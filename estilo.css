@@ -4,9 +4,6 @@ background: rgb(32, 11, 55);
 font-family: 'Viga', sans-serif;
 }
 
-
-
-
 /* Responsive Menu Icon - Home*/
 .fa-bars{
   color:white;
@@ -30,8 +27,6 @@ font-family: 'Viga', sans-serif;
   border-radius: 4px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
   overflow: hidden;
-  
-
 }
 .navbar ul{
   font-size: 18px;
@@ -166,7 +161,6 @@ a:hover, a.leadlink {
 .paragrafoweb{
   font-size: 18px;
   color: rgb(59,59,59);
-
 }
 
 #corfonte{
@@ -223,7 +217,6 @@ a:hover, a.leadlink {
   background-color: rgb(247, 247, 247);
   border-radius: 5px;
   max-width: 80%;
-  
 }
 
 /* Inf. Cards */
@@ -239,8 +232,6 @@ a:hover, a.leadlink {
 #imagemcard{
   width: 200px;
 }
-
-
 
 /* Cards */
 
@@ -278,7 +269,6 @@ ul.filters > li.active > a{
     color: #fff;
     background-color: rgb(213, 41, 131);
 }
-
 .card{
     position: relative;
     margin-bottom: 50px;
@@ -334,7 +324,6 @@ ul.filters > li.active > a{
     -moz-transition: ease-in-out 0.2s;
     -ms-transition: ease-in-out 0.2s;
     transition: ease-in-out 0.2s;
-
 }
 
 .card-body{
